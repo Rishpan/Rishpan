@@ -2,7 +2,7 @@
 
 Hi, my name is Rishab Pangal. I’m currently an MS in CS student at the University of Massachusetts Amherst, with experience in Python, JavaScript, TypeScript, and AWS development.
 
-## Group Projects
+## My Group Projects 👥
 
 **[Internal Node.js Package Registry](https://github.com/shrijan-swaminathan/ece461grp11part2)** - Internal Node.js package registry system. Built for managing and distributing packages within an organization.
 
