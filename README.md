@@ -10,6 +10,6 @@ Hi, my name is Rishab Pangal. I’m currently an MS in CS student at the Univers
 
 **[MarkByte](https://github.com/AnishLaddha/markbyte)** - Full-stack React blogging platform featuring Markdown publishing, user analytics, and version rollback
 
-**[Speech Driven IDE](https://github.com/shrijan-swaminathan/SpeechDrivenIDE)** - Voice-controlled Python IDE. Integrates speech recognition for hands-free coding commands.
+**[Speech-Driven Python IDE](https://github.com/shrijan-swaminathan/SpeechDrivenIDE)** - Voice-controlled Python IDE. Integrates speech recognition for hands-free coding commands.
 
 **[Sentify](https://github.com/shrijan-swaminathan/Sentify)** - Email sentiment analysis platform leveraging fine-tuned DistilBERT and RoBERTa models for generating GPT feedback for clearer communication.
