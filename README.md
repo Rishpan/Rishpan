@@ -6,7 +6,7 @@ My name is Rishab Pangal, and I’m currently an MSCS student at the University 
 
 **[Internal Node.js Package Registry](https://github.com/shrijan-swaminathan/ece461grp11part2)** - Internal Node.js package registry system. Built for managing and distributing packages within an organization.
 
-**[Node.js Metrics Evaluation Tool](https://github.com/shrijan-swaminathan/mickeyNPM)** - CLI tool for evaluating Node.js package quality, security, and maintainability to help developers choose trustworthy modules.
+**[Node.js Metrics Evaluation Tool](https://github.com/shrijan-swaminathan/mickeyNPM)** - A CLI tool for evaluating the quality, security, and maintainability of Node.js packages, helping developers choose trustworthy modules.
 
 **[MarkByte](https://github.com/AnishLaddha/markbyte)** - Full-stack React blogging platform featuring Markdown publishing, user analytics, and version rollback
 
