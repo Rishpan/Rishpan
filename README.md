@@ -1,6 +1,6 @@
 # Rishpan
 
-Current MS in CS student at the University of Massachusetts Amherst.
+Hi, my name is Rishab Pangal. I'm a current MS in CS student at the University of Massachusetts Amherst.
 
 ## Group Projects
 
