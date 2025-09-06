@@ -1,6 +1,6 @@
 # Rishab Pangal
 
-Hi, my name is Rishab Pangal. I’m currently an MS in CS student at the University of Massachusetts Amherst, with experience in Python, JavaScript, TypeScript, and AWS development.
+Hi, my name is Rishab Pangal. I’m currently an MSCS student at the University of Massachusetts Amherst, with experience in Python, JavaScript, TypeScript, and AWS development.
 
 ## Projects 🚀
 
