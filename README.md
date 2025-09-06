@@ -8,7 +8,7 @@ Hi, my name is Rishab Pangal. I’m currently an MS in CS student at the Univers
 
 **[Node.js Metrics Evaluation Tool](https://github.com/shrijan-swaminathan/mickeyNPM)** - CLI tool for evaluating Node.js package quality, security, and maintainability to help developers choose trustworthy modules.
 
-**[MarkByte](https://github.com/AnishLaddha/markbyte)** - Markdown-based no-code blogsite creation platform.
+**[MarkByte](https://github.com/AnishLaddha/markbyte)** - Full-stack React blogging platform featuring Markdown publishing, user analytics, and version rollback
 
 **[Speech Driven IDE](https://github.com/shrijan-swaminathan/SpeechDrivenIDE)** - Voice-controlled Python IDE. Integrates speech recognition for hands-free coding commands.
 
