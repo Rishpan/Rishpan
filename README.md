@@ -10,4 +10,5 @@ My name is Rishab Pangal, and I'm currently an MSCS student at the University of
 ### Data Engineering & Systems ⚙️
 - **[PySpark API Benchmark](https://github.com/Rishpan/cs532-spark-benchmark)** - PySpark benchmarking suite comparing RDD, DataFrame, and SQL APIs on 3.3GB of web server logs, measuring execution time, shuffle volume, and memory usage to evaluate Spark's Catalyst optimizer. Deployed on GCP Dataproc.
 ### AI/ML & Natural Language Processing 🤖
+- **[Birdsong CNN](https://github.com/Rishpan/birdsong-cnn)** - Fine-tuned ResNet-18 and EfficientNet-B0 on mel-spectrograms from 49 European species, with few-shot cross-regional transfer to 10 Northeastern U.S. species (61.54% at k=10, ~39% gain over ImageNet baseline) and GradCAM++ interpretability.
 - **[Sentify](https://github.com/shrijan-swaminathan/Sentify)** - Email sentiment analysis platform leveraging fine-tuned DistilBERT and RoBERTa models for generating GPT feedback for clearer communication.
